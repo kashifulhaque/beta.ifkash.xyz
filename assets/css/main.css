@@ -2005,6 +2005,7 @@ img.blur:hover {
 
 .share-btn.share-btn-branded {
   color: #f3f3f3;
+  transition: 0.4s;
 }
 
 .share-btn.share-btn-branded.share-btn-linkedin {
@@ -2122,8 +2123,34 @@ ul.customupdates > li:hover {
   background: #f6f6f61a;
 }
 
+.main-buttons {
+  transition: 0.4s;
+}
+
 .main-buttons:hover {
   transition: 0.4s;
   padding: 12px;
   transform: scale(1.2);
+}
+
+.white-text {
+  color: #f3f3f3;
+}
+
+.medium-text {
+  font-size: 16px;
+}
+
+.attention-text {
+  color: #00ff00ab;
+}
+
+.attention-link {
+  font-size: 18px;
+  transition: 0.4s;
+}
+
+.attention-link:hover {
+  transition: 0.4s;
+  font-size: 24px;
 }
