@@ -2016,6 +2016,7 @@ img.blur:hover {
 
 .share-btn.share-btn-branded.share-btn-linkedin:hover {
   color: #00ff00;
+  border-radius: 12px;
   transform: scale(1.15);
 }
 
@@ -2027,6 +2028,7 @@ img.blur:hover {
 
 .share-btn.share-btn-branded.share-btn-twitter:hover {
   color: #ffffff;
+  border-radius: 12px;
   transform: scale(1.15);
 }
 
@@ -2038,6 +2040,7 @@ img.blur:hover {
 
 .share-btn.share-btn-branded.share-btn-reddit:hover {
   color: #ffffff;
+  border-radius: 12px;
   transform: scale(1.15);
 }
 
@@ -2049,6 +2052,7 @@ img.blur:hover {
 
 .share-btn.share-btn-branded.share-btn-email:hover {
   color: #f3f3f3;
+  border-radius: 12px;
   transform: scale(1.15);
 }
 
