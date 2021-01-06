@@ -1,3 +1,3 @@
-# [beta.ifkash.xyz](https://beta.ifkash.xyz)
+# [ifkash.me](https://ifkash.me)
 
 Beta version of my upcoming portfolio website
